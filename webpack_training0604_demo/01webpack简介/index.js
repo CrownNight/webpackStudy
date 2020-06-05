@@ -1,7 +1,7 @@
 import $ from 'jquery';
 
-const add = function(x, y) {
+const sum = function(x, y) {
   return x + y;
 }
 
-console.log(add(1, 2));
+console.log(sum(1, 2));
